@@ -5,6 +5,7 @@
     
 <configuration>
 	<mappers>
-		<mapper resource="META-INF/mybatis/student-mapper.xml"/>
+		<mapper resource="META-INF/mybatis/student.map.xml"/>
+		<mapper resource="META-INF/mybatis/user.map.xml"/>
 	</mappers>
 </configuration>
